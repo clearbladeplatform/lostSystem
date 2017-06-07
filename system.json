@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "description": "",
+    "edge_sync": {},
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "lostSystem",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "e6aef6860b86bfaf9c908adde622",
+    "system_secret": "E6AEF6860BBE8E8AC7C9CAAC8621"
+}
